@@ -1,0 +1,21 @@
+{
+  "name": "mftdl1-todo-list",
+  "version": "2.0.1",
+  "description": "CLI based Todo-list",
+  "main": "main.js",
+  "type": "module",
+  "bin":  "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Ahsan Tariq",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
